@@ -34,7 +34,7 @@ Detailed documentation is also provided, with stepwise instructions to install t
 
 # Acknowledgments 
 This work has made use of the following softwares : 
-numpy (@NumPy) , matplotlib (@Matplotlib), jupyter (@soton403913) and OpenCV (@opencv) 
+numpy (@NumPy) , matplotlib (@matplotlib), jupyter (@soton403913) and OpenCV (@opencv) 
 
 # References
 
